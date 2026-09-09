@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
