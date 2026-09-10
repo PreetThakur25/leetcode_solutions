@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0018-4sum) |
 | [0136-single-number](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0260-single-number-iii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
