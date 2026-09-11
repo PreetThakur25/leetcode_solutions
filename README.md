@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0260-single-number-iii) |
+| [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0049-group-anagrams) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
