@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0260-single-number-iii) |
+| [0704-binary-search](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0704-binary-search) |
 | [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
