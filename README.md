@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
