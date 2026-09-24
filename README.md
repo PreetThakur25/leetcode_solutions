@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0704-binary-search) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0441-arranging-coins) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -161,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
