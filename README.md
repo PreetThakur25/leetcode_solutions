@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0704-binary-search) |
 | [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Binary Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0704-binary-search) |
 ## String
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
