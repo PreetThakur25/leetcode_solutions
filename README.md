@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0925-long-pressed-name) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
