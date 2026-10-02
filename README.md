@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/PreetThakur25/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/PreetThakur25/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
